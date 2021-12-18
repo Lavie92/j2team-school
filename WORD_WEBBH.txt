@@ -1,0 +1,61 @@
+Website bán hàng 
+
+ 
+
+Admin 
+
+Thêm, sửa, xóa 
+
+Login tài khoản 
+
+Đối tượng sử dụng : 
+
+ 
+
+Khách hàng có tài khoản 
+
+Đăng nhập và đăng xuất 
+
+Quản lý giỏ hàng ( thêm, sửa, xóa) 
+
+Đặt hàng 
+
+Xem hóa đơn của bản thân 
+
+ 
+
+Khách hàng không có tài khoản 
+
+Lập tài khoản 
+
+Tìm kiếm theo tên sản phẩm hoặc nhà sản xuất 
+
+Xem cụ thể, tất cả các sản phẩm 
+
+Thêm giỏ hàng nhưng không thanh toán được 
+
+ 
+
+Nhân viên 
+
+Đăng nhập, đăng xuất 
+
+Thêm, sửa sản phẩm 
+
+Thay đổi tình trạng đơn 
+
+ 
+
+Quản lý 
+
+Đầy đủ của nhân viên 
+
+Quản lý nhà sản xuất ( thêm, sửa, xóa) 
+
+Quản lý sản xuất ( thêm, sửa, xóa) 
+
+Quản lý nhân viên ( thêm, sửa, xóa) 
+
+ 
+
+	 
